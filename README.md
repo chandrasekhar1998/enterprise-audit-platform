@@ -1,1 +1,1 @@
-An Enterprise Audit Management System Desk serves as a centralized control center or dashboard designed to track compliance, streamline risk assessment, manage checklists, and record audit trails across an enterprise organization.
+enterprise-audit-platform
